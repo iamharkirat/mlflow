@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harkiratchahal/Desktop/Coding/Tutorials/mlflow/mlruns/0/6797e6690fd3439ca219e51f9e2b6531/artifacts
+end_time: 1695506123649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6797e6690fd3439ca219e51f9e2b6531
+run_name: peaceful-finch-129
+run_uuid: 6797e6690fd3439ca219e51f9e2b6531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695506121807
+status: 3
+tags: []
+user_id: harkiratchahal

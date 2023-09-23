@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harkiratchahal/Desktop/Coding/Tutorials/mlflow/mlruns/0/8e282c88e0274e0884dc7d3778b7e53a/artifacts
+end_time: 1695506316631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e282c88e0274e0884dc7d3778b7e53a
+run_name: upset-duck-496
+run_uuid: 8e282c88e0274e0884dc7d3778b7e53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695506314642
+status: 3
+tags: []
+user_id: harkiratchahal
